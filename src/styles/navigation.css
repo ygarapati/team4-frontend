@@ -1,0 +1,38 @@
+.hz-rule{
+    border: 1px solid #FFFFFF;
+}
+.nav-bg{
+    background-color: #0D0E0D;
+}
+.profile-icon{
+    width:40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #C5B3B3;
+    text-align: center;
+    padding-top: 5%;
+
+}
+
+.title{
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 5vh;
+}
+.nav-links{
+    margin-top: 5%;
+    color: #FFFFFF;
+}
+.nav-links:hover{
+    
+    font-weight: 400 !important;
+}
+.nav-item{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.nav-item:hover{
+    text-decoration: underline;
+}
